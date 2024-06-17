@@ -1,0 +1,29 @@
+,cell id,normalized depth,axon branch points,axon width,axon depth,axon height,axon robust width,axon robust depth,axon robust height,axon x-bias,axon z-bias,axon tips,axon total length,axon max path distance to soma,axon max branch order,axon max path angle,axon median path angle,axon max segment length,axon log max tortuosity,axon log min tortuosity,axon log median tortuosity,axon max branch angle,axon min branch angle,axon mean branch angle,axon z-profile,axon soma-centered z-profile,axon above soma,soma radius,mean initial segment radius,axon mean neurite radius,axon max Euclidean dist,axon first bifurcation moment,axon bifurcation standard deviation,dendrite branch points,dendrite width,dendrite depth,dendrite height,dendrite robust width,dendrite robust depth,dendrite robust height,dendrite x-bias,dendrite z-bias,dendrite tips,dendrite total length,dendrite max path distance to soma,dendrite max branch order,dendrite max path angle,dendrite median path angle,dendrite max segment length,dendrite log max tortuosity,dendrite log min tortuosity,dendrite log median tortuosity,dendrite max branch angle,dendrite min branch angle,dendrite mean branch angle,dendrite z-profile,dendrite soma-centered z-profile,dendrite above soma,dendrite mean neurite radius,dendrite max Euclidean dist,dendrite first bifurcation moment,dendrite bifurcation standard deviation,stems,stems exiting up,stems exiting down,stems exiting to the sides,"""apical"" mean bifurcation distance","""apical"" std bifurcation distance","""apical"" log1p number of outer bifurcations","""apical"" height","""apical"" width","""apical"" robust height","""apical"" robust width","""apical"" total length","""apical"" branch points",Log1p fraction of axon above dendrite,Log1p fraction of axon below dendrite,Log1p fraction of dendrite above axon,Log1p fraction of dendrite below axon,EMD axon dendrite
+0,20180829_sample_2,0.1795313024441806,67,521.61,218.62,522.99,309.59749999999997,153.18,382.41375,132.41,34.26999999999998,75,9940.201846817487,1284.9779302489053,29,71.648196484156,7.695742001995148,426.88949891861535,0.9979701693862928,0.013907477101853001,0.21380258391006304,159.63203628188012,6.914052774686415,81.21204990327865,"[2.22222222 0.         0.         2.22222222 0.         2.22222222
+ 4.44444444 0.         0.         2.22222222 0.         0.
+ 0.         2.22222222 0.         0.         4.44444444 0.
+ 0.         0.        ]","[0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+ 0.     0.     0.     0.     0.1872 0.2304 0.3636 0.6984 0.9252 2.9412
+ 3.2184 5.886  5.3784 2.4984 5.364  4.536  6.678  1.5948 0.     0.
+ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+ 0.     0.     0.     0.     0.     0.     0.     0.     0.     0.
+ 0.    ]",0.8444444444444444,10.132087741774573,0.405,0.07566901408450705,402.644283828791,81.40164179104475,86.96339987718999,32,375.6,137.19,261.94,314.9454999999999,109.72,222.3275,74.23999999999998,141.48000000000002,36,4242.258783332938,322.5408568084202,8,64.41947464744872,9.799474427221336,223.58946860855784,0.9822695254857222,0.06587953375731431,0.2534087169601955,120.78704454111426,9.58499887210117,66.3980396195906,"[0.95238095 2.85714286 2.85714286 4.76190476 0.95238095 0.
+ 0.95238095 1.9047619  0.         0.95238095 0.         0.
+ 0.         0.         1.9047619  0.         0.         0.95238095
+ 0.95238095 0.        ]","[ 0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.14473408  4.70811436  6.5470885  10.41233971
+  9.19487072  4.76771074  3.71200336  1.01313853  0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.        ]",0.8274122346016397,0.6830597014925374,247.78848782782464,36.76999999999999,50.290329028054686,5,0.2,0.4,0.4,0.20630873868828364,0.1117999077899085,1.6094379124341003,174.07999999999998,227.54999999999998,140.81625000000003,194.99925000000002,1365.883540831283,11,0.0,0.0,0.0,0.09097177820572679,0.4761904761904754
