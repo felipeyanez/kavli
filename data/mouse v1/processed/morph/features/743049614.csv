@@ -1,0 +1,34 @@
+,cell id,normalized depth,axon branch points,axon width,axon depth,axon height,axon robust width,axon robust depth,axon robust height,axon x-bias,axon z-bias,axon tips,axon total length,axon max path distance to soma,axon max branch order,axon max path angle,axon median path angle,axon max segment length,axon log max tortuosity,axon log min tortuosity,axon log median tortuosity,axon max branch angle,axon min branch angle,axon mean branch angle,axon z-profile,axon soma-centered z-profile,axon above soma,soma radius,mean initial segment radius,axon mean neurite radius,axon max Euclidean dist,axon first bifurcation moment,axon bifurcation standard deviation,dendrite branch points,dendrite width,dendrite depth,dendrite height,dendrite robust width,dendrite robust depth,dendrite robust height,dendrite x-bias,dendrite z-bias,dendrite tips,dendrite total length,dendrite max path distance to soma,dendrite max branch order,dendrite max path angle,dendrite median path angle,dendrite max segment length,dendrite log max tortuosity,dendrite log min tortuosity,dendrite log median tortuosity,dendrite max branch angle,dendrite min branch angle,dendrite mean branch angle,dendrite z-profile,dendrite soma-centered z-profile,dendrite above soma,dendrite mean neurite radius,dendrite max Euclidean dist,dendrite first bifurcation moment,dendrite bifurcation standard deviation,stems,stems exiting up,stems exiting down,stems exiting to the sides,"""apical"" mean bifurcation distance","""apical"" std bifurcation distance","""apical"" log1p number of outer bifurcations","""apical"" height","""apical"" width","""apical"" robust height","""apical"" robust width","""apical"" total length","""apical"" branch points",Log1p fraction of axon above dendrite,Log1p fraction of axon below dendrite,Log1p fraction of dendrite above axon,Log1p fraction of dendrite below axon,EMD axon dendrite
+0,743049614,0.978628659,165,641.81,563.98,433.79999999999995,468.3454999999999,301.498,260.98099999999994,4.089999999999975,-224.85999999999999,167,17157.478650460056,1128.4226280096377,25,47.08509820363588,2.8275489258940554,372.87490777926405,0.8160743971767602,0.00012750188951580815,0.09007223676179045,174.42938019947476,6.568305982317971,88.46185917865635,"[ 0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  1.0787717 18.9212283]","[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.11819066 0.23406386 0.57704852 1.14482719 2.61873426
+ 5.30467498 8.38226711 8.4471561  7.87242504 4.36841955 1.12628748
+ 0.21320668 0.09269856 0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.        ]",0.07324330510414283,6.8441,0.4156,0.13313001169132435,492.21646599844667,-68.62896969696966,56.5183725303899,15,299.25,279.87,244.54,261.34574999999995,266.97749999999996,195.32575,58.610000000000014,-130.72,18,2580.864007480004,359.93357235814875,5,39.41796910034799,4.998190947390934,333.8523434913785,0.30387724910148656,0.007909789480473757,0.08832960804409203,146.71439883599072,3.1003604926337838,74.1554887650736,"[ 0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.75221239 19.24778761]","[ 0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.49184061
+  3.5658444   4.11916509  4.93377609  9.57552182 12.49582543  5.1028463
+  0.21518027  0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.        ]",0.3028462998102467,0.3274238291209005,279.99489620348436,-21.367333333333328,35.79085739248068,4,0.25,0.25,0.5,0.2273673652284079,0.21829281580974064,1.0986122886681098,163.03,98.81,156.69125,94.17625,739.9515594113993,5,0.0,0.0,0.0,0.0,0.03265593062135969
